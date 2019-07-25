@@ -2,7 +2,7 @@
 log_to_stdout = true
 stdout_log_level = "Debug"
 log_to_file = false
-file_log_level = "DEBUG"
+file_log_level = "Debug"
 log_file_path = ""
 log_file_append = false
 
