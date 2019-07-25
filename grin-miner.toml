@@ -14,7 +14,7 @@ stratum_server_tls_enabled = false
 miner_plugin_dir = "plugins"
 
 [[mining.miner_plugin_config]]
-plugin_name = "cuckatoo_mean_cuda_rtx_31"
+plugin_name = "cuckaroo_cuda_29"
 [mining.miner_plugin_config.parameters]
 device = 0 
 expand = 2 
@@ -29,6 +29,6 @@ recoverblocks = 1024
 recovertpb = 1024
 
 [[mining.miner_plugin_config]]
-plugin_name = "cuckatoo_mean_cuda_rtx_31"
+plugin_name = "cuckaroo_cuda_29"
 [mining.miner_plugin_config.parameters]
 device = 1 
